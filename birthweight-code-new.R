@@ -1,6 +1,4 @@
-#20125060
 #Dinh My Ky
-#20CTT
 #STAT452
 
 library(dplyr)
